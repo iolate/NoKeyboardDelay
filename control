@@ -1,0 +1,9 @@
+Package: kr.iolate.nokeyboarddelay
+Name: NoKeyboardDelay
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: No delay for changing keyboard.
+Maintainer: iolate
+Author: iolate
+Section: Tweaks
